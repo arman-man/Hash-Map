@@ -3,6 +3,6 @@ Implemented a hashmap using dynamic arrays and linked lists. Includes collision 
 
 Functions of array, linked list, and hashmap were programmed with optimal time complexity. Written with well-documented, modular code using principles of object oriented programming.
 
-HashMap_SC implemented through Separate Chaining
+HashMap_SC implemented through separate chaining
 
-HashMap_OA implemented through Open Addressing
+HashMap_OA implemented through open addressing
